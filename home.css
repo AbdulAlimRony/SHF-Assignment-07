@@ -1,0 +1,67 @@
+.login-input{
+border: 1px solid #d5d2d2;
+margin-bottom: 10px;
+background-color: #f5f5f5;
+height: 40px;
+width: 445px;
+padding: 10px 16px;
+font-size: 18px;
+border-radius: 6px;
+outline: none;
+}
+.login-input:focus{
+	border: 0;
+	background-color: #fff;
+}
+.login-button{
+	width: 100%;
+}
+.login-button:hover{
+	background-color: #007a5aDF;
+	color: #FFFFFFEF;
+}
+table{
+	width: 50%;
+}
+.about-overview{
+	width: 450px;
+	height: 450px;
+}
+.about-img img {
+    height: 450px;
+    width: 500px;
+}
+.about-title {
+            height: auto;
+            padding: 10px;
+            color: #fff;
+            background: url(imgs/about-corner.png) no-repeat 0 100%;
+            background-size: 9px 9px;
+            
+}
+
+.about-title span {
+                display: block;
+                background: #007a5a;
+                margin-left: -10px;
+                padding: 8px 20px 8px 29px;
+}
+.about-details {
+            margin-left: 10px;
+            margin-right: 10px;
+            margin-top: -20px;
+            background-color: #fff;
+            padding: 15px;
+}
+#Our-Books table, #customer-books table{
+	background-color: #FFF;
+}
+#Our-Books img, #customer-books img{
+	height: 240px;
+	width: 180px;
+}
+#Our-Books button, #customer-books button{
+	border-radius: 0;
+}
+
+       
