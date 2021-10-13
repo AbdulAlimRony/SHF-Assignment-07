@@ -14,7 +14,7 @@ outline: none;
 	background-color: #fff;
 }
 .login-button{
-	width: 100%;
+	width: 80%;
 }
 .login-button:hover{
 	background-color: #007a5aDF;
